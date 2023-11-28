@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/sunil531999" target="blank"><img src="https://img.shields.io/twitter/follow/sunil531999?logo=twitter&style=for-the-badge" alt="sunil531999" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science Engineering**
+- 🌱 I’m a **Computer Science** Graduate
+- 🔭 My research papers on project MediFi got published in<br> 
+                   -> [IEEE Explore](https://ieeexplore.ieee.org/document/9791747) (Scopus Indexed)<br>
+                   -> [Springer](https://link.springer.com/chapter/10.1007/978-981-19-5191-6_40)<br>
+                   -> [American Journal of Electronics & Communication](https://www.ingentaconnect.com/content/smart/ajec/2022/00000002/00000003/art00005)<br>
 
 - 👯 I’m looking to collaborate on **Open-Source Project**
 
