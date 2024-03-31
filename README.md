@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar Sharma</h1>
-<h3 align="center">A Cyber Security Enthusiast, Embedded System Developer and Software Engineer from India</h3>
+<h3 align="center">An Embedded System Developer, Software Engineer and Cyber Security Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunil531999&label=Profile%20views&color=0e75b6&style=flat" alt="sunil531999" /> </p>
 
