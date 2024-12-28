@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Software Programming, Cyber Security, Embedded Systems**
   
-- 👨‍💻 My Portfolio [Portfolio](https://sunil531999.github.io/Portfolio/)
+- 📄 My Portfolio [Portfolio](https://sunil531999.github.io/Portfolio/)
 
 - 📫 How to reach me **qwerty.sunilsharma@gmail.com**
 
